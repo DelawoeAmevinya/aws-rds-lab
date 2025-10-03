@@ -13,16 +13,16 @@ I completed a hands-on lab where I:
 **LinkedIn post URL:** https://www.linkedin.com/posts/your-link-here
 
 ## Screenshots
-![RDS Dashboard](screenshots/1-rds-dashboard.png)  
+![RDS Dashboard](screenshot/1-rds-dashboard.png)  
 *RDS Dashboard showing Multi-AZ instance*
 
-![Security Group](screenshots/2-security-group.png)  
+![Security Group](screenshot/2-security-group.png)  
 *Security Group inbound rules allowing web server access*
 
-![Connection Test](screenshots/3-connection-test.png)  
+![Connection Test](screenshot/3-connection-test.png)  
 *Successful DB connection test via client/CLI*
 
-![Web App](screenshots/4-web-app.png)  
+![Web App](screenshot/4-web-app.png)  
 *Web app displaying data retrieved from RDS*
 
 ## What I did (short steps)
